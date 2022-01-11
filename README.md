@@ -19,7 +19,7 @@ This project is an application of geolocalisation. You can see your position on 
 
 <h3>Getting Started</h3>
 
-Clone the repo, go to backend npm install and npm start, go to frontend npm install and npm start (use expo go to scan qr code and lauch application on your mobile)
+Clone the repo, go to backend npm install and npm start, go to frontend npm install and npm start (use Expo Go(app) to scan qr code and lauch application on your device)
 
 <h3>Contact</h3>
 
